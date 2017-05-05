@@ -1,5 +1,5 @@
 module Bxslider
   module Rails
-    VERSION = "4.2.5.1"
+    VERSION = "4.2.12"
   end
 end
